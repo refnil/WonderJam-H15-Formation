@@ -1,3 +1,23 @@
+﻿-    .|||||.
+                                  |||||||||
+                          -      ||||||  .
+                              -  ||||||   >
+                                ||||||| -/
+                           --   ||||||'(
+                        -       .'      \
+                             .-'    | | |
+                            /        \ \ \
+              --        -  |      `---:.`.\
+             ____________._>           \\_\\____ ,--.__
+  --    ,--""           /    `-   .     |)_)    '\     '\
+       /  "             |      .-'     /          \      '\
+     ,/                  \           .'            '\     |
+     | "   "   "          \         /                '\,  /
+     |           " , =_____`-.   .-'_________________,--""
+   - |  "    "    /"/'      /\>-' ( <
+     \  "      ",/ /    -  ( <    |\_)
+      \   ",",_/,-'        |\_)
+   -- -'-;.__:-'
 # WonderJam-H15-Formation
 
 Source:
@@ -36,3 +56,23 @@ Tips:
 15. Stuck? Have a shower! The solution may come to you once you relax.
 16. Don't over scope. Try to come up with a single unique focus. What might happen during your implementation process is that you'll discover new and interesting things worth exploring. That's good! You'll want to Explore the idea as much as possible and see what cool things come up.
 17. Try to aim for a deadline that is 2 hours before the submission deadline
+-    .|||||.
+                                  |||||||||
+                          -      ||||||  .
+                              -  ||||||   >
+                                ||||||| -/
+                           --   ||||||'(
+                        -       .'      \
+                             .-'    | | |
+                            /        \ \ \
+              --        -  |      `---:.`.\
+             ____________._>           \\_\\____ ,--.__
+  --    ,--""           /    `-   .     |)_)    '\     '\
+       /  "             |      .-'     /          \      '\
+     ,/                  \           .'            '\     |
+     | "   "   "          \         /                '\,  /
+     |           " , =_____`-.   .-'_________________,--""
+   - |  "    "    /"/'      /\>-' ( <
+     \  "      ",/ /    -  ( <    |\_)
+      \   ",",_/,-'        |\_)
+   -- -'-;.__:-'
